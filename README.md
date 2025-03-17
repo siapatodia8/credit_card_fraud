@@ -7,4 +7,4 @@ Our project focuses on building a machine learning-based credit card fraud detec
 [Credit Card Fraud Detection - Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 ## Author Info :trident:
 - Jovanna Fernando 
-- Sia Patodia [GitHub](https://github.com/siapatodia8)
+- Sia Patodia 
